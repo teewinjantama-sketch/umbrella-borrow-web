@@ -1,0 +1,1 @@
+const CONFIG = { owner: "teewinjantama-sketch", repo: "umbrella-borrow-web", filePath: "data.json", token: "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" };
