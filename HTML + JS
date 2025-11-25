@@ -1,0 +1,5 @@
+<input id="name" placeholder="ชื่อผู้ยืม">
+<button onclick="borrow(1, document.getElementById('name').value)">ยืมร่ม 1</button>
+<button onclick="returns(1)">คืนร่ม 1</button>
+<script src="config.js"></script>
+<script src="main.js"></script>
