@@ -1,0 +1,14 @@
+{
+  "umbrellas": [
+    {
+      "id": 1,
+      "status": "available",
+      "borrower": ""
+    },
+    {
+      "id": 2,
+      "status": "available",
+      "borrower": ""
+    }
+  ]
+}
